@@ -1,0 +1,16 @@
+.navbar-brand:hover {
+  background-color: var(--bs-danger);
+}
+
+a:hover {
+  background-color: var(--bs-gray-500);
+}
+
+#navcol-1:hover {
+  background-color: var(--bs-gray-400);
+}
+
+h4:hover {
+  background-color: var(--bs-gray);
+}
+
